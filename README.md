@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 👔 [linkedin][linkedin] **|** 
 🗃️ [Gmail] adeayosegun5@gmail.com
 
-[![Oluwasegun's github stats](https://github-readme-stats.vercel.app/api?username=oluwasegun5)](https://github.com/oluwasegun5/github-readme-stats)
+[![Oluwasegun's github stats](https://github-readme-stats.vercel.app/api?username=oluwasegun5&theme=dark&show_icons=true)](https://github.com/oluwasegun5/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/Adeayo-oluwasegun/

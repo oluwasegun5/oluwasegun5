@@ -89,11 +89,6 @@ I'm currently enhancing my skills in cloud technologies and microservices archit
 - Stay tuned for upcoming blog posts!
 <!-- BLOG-POST-LIST:END -->
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=oluwasegun5&cover_image=true&theme=default&show_offline=false&background_color=121212" alt="Spotify Profile" />
-</div>
 
 ## 📌 Profile Visitors
 

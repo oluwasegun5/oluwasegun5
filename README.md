@@ -1,7 +1,7 @@
 # 👋 Hello World, I'm Oluwasegun Adeayo!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD3&center=true&vCenter=true&width=435&lines=Python+and+Java+Developer;Full-Stack+Engineer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FD3&center=true&vCenter=true&width=435&lines=Python+and+Java+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 ## 💫 About Me
